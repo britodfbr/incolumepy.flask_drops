@@ -18,5 +18,11 @@ users = {
         "image": f"https://http.cat/{randint(400, 418)}.jpg",
         "quote": {3: 'Eita', 1: 'Eureka', 2: 'vixi'}
     },
+    "elianab":{
+        "name": "Eliana Ferreira dos Santos Brito",
+        "phone": "+55 61 8736-8031",
+        "image": f"https://http.cat/{randint(400, 418)}.jpg",
+        "quote": {1: 'Eguaaa', 2: 'vixii', 3: 'eita poxa'}
+    }
 }
 
